@@ -1,0 +1,122 @@
+{
+  "date": "2026-07-10",
+  "usd_cny_rate": 6.7926,
+  "principal": 45000.0,
+  "realized_pnl": 884.29,
+  "accounts": {
+    "ib": 41733.0,
+    "yl": 12766.0
+  },
+  "holdings": [
+    {
+      "symbol": "MSFT",
+      "shares": 30,
+      "cost_basis": 436.42,
+      "price": 384.36,
+      "market_value": 11530.8,
+      "unrealized_pnl": -1561.8,
+      "pnl_pct": -11.93,
+      "daily_change": 30.6,
+      "prev_price": 383.34
+    },
+    {
+      "symbol": "NVDA",
+      "shares": 45,
+      "cost_basis": 113.8,
+      "price": 202.78,
+      "market_value": 9125.1,
+      "unrealized_pnl": 4004.1,
+      "pnl_pct": 78.19,
+      "daily_change": -60.3,
+      "prev_price": 204.12
+    },
+    {
+      "symbol": "UNH",
+      "shares": 15,
+      "cost_basis": 290.03,
+      "price": 431.68,
+      "market_value": 6475.2,
+      "unrealized_pnl": 2124.75,
+      "pnl_pct": 48.84,
+      "daily_change": 91.2,
+      "prev_price": 425.6
+    },
+    {
+      "symbol": "QQQ",
+      "shares": 8,
+      "cost_basis": 454.23,
+      "price": 723.28,
+      "market_value": 5786.24,
+      "unrealized_pnl": 2152.4,
+      "pnl_pct": 59.23,
+      "daily_change": 94.72,
+      "prev_price": 711.44
+    },
+    {
+      "symbol": "VOO",
+      "shares": 8,
+      "cost_basis": 516.26,
+      "price": 690.69,
+      "market_value": 5525.52,
+      "unrealized_pnl": 1395.44,
+      "pnl_pct": 33.79,
+      "daily_change": 43.44,
+      "prev_price": 685.26
+    },
+    {
+      "symbol": "AMZN",
+      "shares": 10,
+      "cost_basis": 189.31,
+      "price": 247.04,
+      "market_value": 2470.4,
+      "unrealized_pnl": 577.3,
+      "pnl_pct": 30.49,
+      "daily_change": 34.2,
+      "prev_price": 243.62
+    }
+  ],
+  "transactions": [],
+  "principal_records": [
+    {
+      "date": "2025-03-31",
+      "amount": 45000.0,
+      "currency": "USD",
+      "note": "初始投入"
+    }
+  ],
+  "cash": {
+    "ib": 41733.0,
+    "yl": 12766.0,
+    "total": 13585.74,
+    "is_derived": true
+  },
+  "summary": {
+    "market_value": 40913.26,
+    "total_assets_usd": 54499.0,
+    "total_assets_cny": 370189.91,
+    "total_cost": 32221.07,
+    "unrealized_pnl": 8692.19,
+    "realized_pnl": 884.29,
+    "total_pnl": 9576.48,
+    "total_return_pct": 21.28,
+    "daily_change": 233.86,
+    "position_pct": 75.1,
+    "cash_derived": 13585.74
+  },
+  "drawdown": {
+    "current_pct": 0.0,
+    "peak_usd": 54499.0,
+    "peak_date": "2026-07-10",
+    "is_new_high": true,
+    "history_points": 2
+  },
+  "fire": {
+    "target": 350000.0,
+    "target_cny": 2377410.0,
+    "gap_usd": 295501.0,
+    "gap_cny": 2007220.09,
+    "years_remaining": 8.7,
+    "annual_addition": 7000.0,
+    "progress_pct": 15.6
+  }
+}

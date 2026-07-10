@@ -1,0 +1,73 @@
+{
+  "date": "2026-07-10",
+  "usd_cny_rate": 6.7926,
+  "realized_pnl": 884.29,
+  "principal": {
+    "total": 45000.00,
+    "currency": "USD"
+  },
+  "accounts_note": "IB/YL 余额为账户总市值，已包含现金 + 持仓市值，不可再叠加持仓市值",
+  "accounts": {
+    "IB": {
+      "balance": 41733.00,
+      "currency": "USD"
+    },
+    "YL": {
+      "balance": 12766.00,
+      "currency": "USD"
+    }
+  },
+  "holdings": [
+    {
+      "symbol": "MSFT",
+      "shares": 30,
+      "cost_basis": 436.42,
+      "price": 384.36,
+      "prev_price": 383.34
+    },
+    {
+      "symbol": "NVDA",
+      "shares": 45,
+      "cost_basis": 113.80,
+      "price": 202.78,
+      "prev_price": 204.12
+    },
+    {
+      "symbol": "UNH",
+      "shares": 15,
+      "cost_basis": 290.03,
+      "price": 431.68,
+      "prev_price": 425.60
+    },
+    {
+      "symbol": "QQQ",
+      "shares": 8,
+      "cost_basis": 454.23,
+      "price": 723.28,
+      "prev_price": 711.44
+    },
+    {
+      "symbol": "VOO",
+      "shares": 8,
+      "cost_basis": 516.26,
+      "price": 690.69,
+      "prev_price": 685.26
+    },
+    {
+      "symbol": "AMZN",
+      "shares": 10,
+      "cost_basis": 189.31,
+      "price": 247.04,
+      "prev_price": 243.62
+    }
+  ],
+  "transactions": [],
+  "principal_records": [
+    {
+      "date": "2025-03-31",
+      "amount": 45000.00,
+      "currency": "USD",
+      "note": "初始投入"
+    }
+  ]
+}
